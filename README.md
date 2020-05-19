@@ -1,2 +1,2 @@
-# mytools
+# mytools.sh
 kumpulan tools hacking
